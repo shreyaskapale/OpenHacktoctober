@@ -10,8 +10,8 @@ browser.get('https://techmill.keka.com')
 
 time.sleep(3) 
 
-username = "rajath.v@techmilltechnologies.com"
-password = "Htajar1997$"
+username = "yourname@company.com"
+password = "***********"
 
 
 
